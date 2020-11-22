@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #result
+{
+font-size: 18px;
+background-color: black;
+color: yellow;
+}
+
+body {
+    background-position: center;
+}
+
+canvas {
+    border-radius : 10px;
+    box-shadow: 5px 5px 5px black;
+    margin-top : 30px;
+}
+
+#note {
+    font-size: 15px;
+    color: lightgreen;
+    font-weight: bolder;
+}
